@@ -108,6 +108,7 @@
 | 2.12.2 | 2.0.3, 2.0.4 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.12.2) |
 | 2.12.1 | 2.0.2 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.12.1) |
 | 2.12.0 | 2.0.0, 2.0.1 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.12.0) |
+| 2.10.5 | 1.22.6 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.5) |
 | 2.10.4 | 1.22.4, 1.22.5 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.4) |
 | 2.10.3 | 1.22.3 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.3) |
 | 2.10.2 | 1.22.2 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.2) |
