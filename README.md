@@ -15,9 +15,9 @@
 
 # Info
 
-**🚀 Dart Version: 𒁍 2.9.0 ➢ 3.9.2**
+**🚀 Dart Version: 𒁍 2.7.0-dev.2.1 ➢ 3.9.2**
 
-**🚀 Flutter Version: 𒁍 1.20.0 ➢ 3.35.5**
+**🚀 Flutter Version: 𒁍 v1.12.13+hotfix.5 ➢ 3.35.5**
 
 
 # More Info
@@ -108,7 +108,7 @@
 | 2.12.2 | 2.0.3, 2.0.4 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.12.2) |
 | 2.12.1 | 2.0.2 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.12.1) |
 | 2.12.0 | 2.0.0, 2.0.1 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.12.0) |
-| 2.10.4 | 1.22.4 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.4) |
+| 2.10.4 | 1.22.4, 1.22.5 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.4) |
 | 2.10.3 | 1.22.3 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.3) |
 | 2.10.2 | 1.22.2 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.2) |
 | 2.10.1 | 1.22.1 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.10.1) |
@@ -116,6 +116,13 @@
 | 2.9.2 | 1.20.3, 1.20.4 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.9.2) |
 | 2.9.1 | 1.20.2 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.9.1) |
 | 2.9.0 | 1.20.0, 1.20.1 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.9.0) |
+| 2.8.4 | 1.17.3 1.17.4 1.17.5 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.8.4) |
+| 2.8.3 | 1.17.2 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.8.3) |
+| 2.8.2 | 1.17.1 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.8.2) |
+| 2.8.1 | 1.17.0 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.8.1) |
+| 2.7.2 | v1.12.13+hotfix.9 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.7.2) |
+| 2.7.0 | v1.12.13+hotfix.8 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.7.0) |
+| 2.7.0-dev.2.1 | v1.12.13+hotfix.5 v1.12.13+hotfix.7 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.7.0-dev.2.1) |
 
 
 ## UZ Welcome By FlutterGenerator UZ
