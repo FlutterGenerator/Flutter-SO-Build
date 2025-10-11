@@ -126,7 +126,7 @@
 | 2.7.0-dev.2.1 | v1.12.13+hotfix.5 v1.12.13+hotfix.7 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v2.7.0-dev.2.1) |
 
 
-## UZ Welcome By FlutterGenerator UZ
+## 🇺🇿 Welcome By FlutterGenerator 🇺🇿
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/linkuzbio)
   </a><p>
