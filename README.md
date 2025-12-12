@@ -15,9 +15,9 @@
 
 # Info
 
-**🚀 Dart Version: 𒁍 2.7.0-dev.2.1 ➢ 3.10.3**
+**🚀 Dart Version: 𒁍 2.7.0-dev.2.1 ➢ 3.10.4**
 
-**🚀 Flutter Version: 𒁍 v1.12.13+hotfix.5 ➢ 3.38.4**
+**🚀 Flutter Version: 𒁍 v1.12.13+hotfix.5 ➢ 3.38.5**
 
 
 # More Info
@@ -31,6 +31,7 @@
 
 | Dart Version | Flutter Versions | Status |
 |-------------|------------------|--------|
+| 3.10.4 | 3.38.5 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v3.10.4) |
 | 3.10.3 | 3.38.4 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v3.10.3) |
 | 3.10.1 | 3.38.3 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v3.10.1) |
 | 3.10.0 | 3.38.1 3.38.2 | [Released](https://github.com/FlutterGenerator/Flutter-SO-Build/releases/tag/v3.10.0) |
