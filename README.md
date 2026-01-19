@@ -26,7 +26,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/install/archive)
 
-[![License Info](https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator//blob/main/LICENSE)
+[![License Info](https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/Flutter-SO-Build/blob/main/LICENSE)
 
 📦 Flutter SO Build Summary
 -------
