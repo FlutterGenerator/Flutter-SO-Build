@@ -28,6 +28,19 @@
 
 [![License Info](https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/Flutter-SO-Build/blob/main/LICENSE)
 
+Find Dart Version
+-------
+**Find Stable Version in `libflutter.so` : `Use MT Manager Text Editor`**
+
+**With String**
+
+     (stable)
+
+**With Regex**
+
+    \d+\.\d+\.\d+ \(stable\)
+
+
 📦 Flutter SO Build Summary
 -------
 
